@@ -69,3 +69,15 @@ NavBar
     letter-spacing: 2px;
     cursor: pointer;
 }
+
+.articles {
+    padding: 5rem 0;
+    width: 90vw;
+    max-width: 600px;
+    margin: 0 auto;
+}
+
+.post {
+    margin-bottom: 3rem;
+}
+
